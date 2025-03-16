@@ -3,7 +3,7 @@ name: CI/CD to Production Databese
 on:
   push:
     branches:
-      - master
+      - main
 
 jobs:
   deploy:
